@@ -1,0 +1,430 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{05543DBA-C8FE-401D-BFE7-98F34A930B59}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>RestaurantManager</RootNamespace>
+    <AssemblyName>RestaurantManager</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.Data.Desktop.v21.2, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Data.v21.2, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Printing.v21.2.Core, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Sparkline.v21.2.Core, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Utils.v21.2, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraEditors.v21.2, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BUS\clsBan.cs" />
+    <Compile Include="BUS\clsDangNhap.cs" />
+    <Compile Include="BUS\clsDanhMuc.cs" />
+    <Compile Include="BUS\clsHoaDon.cs" />
+    <Compile Include="BUS\clsKhuVuc.cs" />
+    <Compile Include="BUS\clsLichSu.cs" />
+    <Compile Include="BUS\clsNhanVien.cs" />
+    <Compile Include="BUS\clsThucDon.cs" />
+    <Compile Include="BUS\IBan.cs" />
+    <Compile Include="BUS\IDangNhap.cs" />
+    <Compile Include="BUS\IDanhMuc.cs" />
+    <Compile Include="BUS\IHoaDon.cs" />
+    <Compile Include="BUS\IKhuVuc.cs" />
+    <Compile Include="BUS\ILichSu.cs" />
+    <Compile Include="BUS\INhanVien.cs" />
+    <Compile Include="BUS\IThucDon.cs" />
+    <Compile Include="BUS\Util.cs" />
+    <Compile Include="DAL\clsConnect.cs" />
+    <Compile Include="DAL\iConnect.cs" />
+    <Compile Include="fgioithieu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fgioithieu.Designer.cs">
+      <DependentUpon>fgioithieu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fphanhoi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fphanhoi.Designer.cs">
+      <DependentUpon>fphanhoi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\fAddFood.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\fAddFood.Designer.cs">
+      <DependentUpon>fAddFood.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\fAddMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\fAddMenu.Designer.cs">
+      <DependentUpon>fAddMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\fBackFood.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\fBackFood.Designer.cs">
+      <DependentUpon>fBackFood.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\fBlock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\fBlock.Designer.cs">
+      <DependentUpon>fBlock.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\fConnect.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\fConnect.Designer.cs">
+      <DependentUpon>fConnect.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\fFood.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\fFood.Designer.cs">
+      <DependentUpon>fFood.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\fLoading.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\fLoading.Designer.cs">
+      <DependentUpon>fLoading.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\fLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\fLogin.Designer.cs">
+      <DependentUpon>fLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\fMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\fMain.Designer.cs">
+      <DependentUpon>fMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\fEmployees.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\fEmployees.Designer.cs">
+      <DependentUpon>fEmployees.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\fNextTable.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\fNextTable.Designer.cs">
+      <DependentUpon>fNextTable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\fPay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\fPay.Designer.cs">
+      <DependentUpon>fPay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\fPaymenthistory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\fPaymenthistory.Designer.cs">
+      <DependentUpon>fPaymenthistory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\fPutTable.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\fPutTable.Designer.cs">
+      <DependentUpon>fPutTable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\fTable.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\fTable.Designer.cs">
+      <DependentUpon>fTable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\fUpdate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\fUpdate.Designer.cs">
+      <DependentUpon>fUpdate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="fgioithieu.resx">
+      <DependentUpon>fgioithieu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fphanhoi.resx">
+      <DependentUpon>fphanhoi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\fAddFood.resx">
+      <DependentUpon>fAddFood.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\fAddMenu.resx">
+      <DependentUpon>fAddMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\fBackFood.resx">
+      <DependentUpon>fBackFood.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\fBlock.resx">
+      <DependentUpon>fBlock.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\fConnect.resx">
+      <DependentUpon>fConnect.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\fFood.resx">
+      <DependentUpon>fFood.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\fLoading.resx">
+      <DependentUpon>fLoading.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\fLogin.resx">
+      <DependentUpon>fLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\fMain.resx">
+      <DependentUpon>fMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\fEmployees.resx">
+      <DependentUpon>fEmployees.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\fNextTable.resx">
+      <DependentUpon>fNextTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\fPay.resx">
+      <DependentUpon>fPay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\fPaymenthistory.resx">
+      <DependentUpon>fPaymenthistory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\fPutTable.resx">
+      <DependentUpon>fPutTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\fTable.resx">
+      <DependentUpon>fTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\fUpdate.resx">
+      <DependentUpon>fUpdate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SQUARE-CASH.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2013-06-13-televizija-na-off-16377.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\matt-icons_contact-add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Numbers_iOS.svg_.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cart.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Button-Next-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kisspng-download-computer-icons-button-clip-art-cancel-button-5abbe1b73bafa3.7371045915222624552445.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kisspng-salary-payroll-payment-management-tax-pay-5ac5c755c18088.9729582215229110617926.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home-payroll-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\restart-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\raphael_printer_flat-circle-white-on-green_512x512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Print-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shield-lock.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Button-Next-icon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\button-29286_960_720.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Simpleicons_Interface_unlocked-padlock.svg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Next.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\check-mark-ok-png-10.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\img_410957.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\access-icon-20.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\c386847a.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\15107-illustration-of-a-red-close-button-pv.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Writepad-icon-iOS7-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Edit-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\15107-illustration-of-a-red-close-button-pv1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete-button-png-delete-button-png-image-689.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tick-gia-su-toan-ha-noi-math.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cancel-green-round-gel-isolated-push-button-vector-9027208.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\200.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\connect_btn.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download gif 1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\loading_logofinal_by_zegerdon-d60eb1v.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sqlserver.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\orb.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\da88e245a2fce8d501c35998cd3e4aed.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ephoto360.com-5c0ce8cbeebbe.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\image\table.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lgtable.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\multy-user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\51882.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\khungmo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\KhungMo1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\xam.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Khoa.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\20131231143730-d5b8ed99.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1_W8cj-FRc58UozzcMWqVPZw.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\recycle_256.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Refresh-PNG-Photo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\83665220_629063147920716_1009172166140231680_n.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\splash-screen.gif" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

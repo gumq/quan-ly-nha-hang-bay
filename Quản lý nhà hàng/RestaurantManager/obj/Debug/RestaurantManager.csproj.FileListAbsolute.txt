@@ -1,0 +1,282 @@
+C:\Users\tuanc\OneDrive\Máy tính\RestaurantManager\RestaurantManager\RestaurantManager\bin\Debug\RestaurantManager.exe.config
+C:\Users\tuanc\OneDrive\Máy tính\RestaurantManager\RestaurantManager\RestaurantManager\bin\Debug\RestaurantManager.exe
+C:\Users\tuanc\OneDrive\Máy tính\RestaurantManager\RestaurantManager\RestaurantManager\bin\Debug\RestaurantManager.pdb
+C:\Users\tuanc\OneDrive\Máy tính\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.csprojAssemblyReference.cache
+C:\Users\tuanc\OneDrive\Máy tính\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.fLogin.resources
+C:\Users\tuanc\OneDrive\Máy tính\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fMain.resources
+C:\Users\tuanc\OneDrive\Máy tính\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.Properties.Resources.resources
+C:\Users\tuanc\OneDrive\Máy tính\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.csproj.GenerateResource.cache
+C:\Users\tuanc\OneDrive\Máy tính\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.csproj.CoreCompileInputs.cache
+C:\Users\tuanc\OneDrive\Máy tính\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.exe
+C:\Users\tuanc\OneDrive\Máy tính\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.pdb
+C:\Users\tuanc\OneDrive\Máy tính\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fConnect.resources
+C:\Users\tuanc\OneDrive\Máy tính\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fAddFood.resources
+C:\Users\tuanc\OneDrive\Máy tính\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fPaymenthistory.resources
+C:\Users\tuanc\OneDrive\Máy tính\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fNextTable.resources
+C:\Users\tuanc\OneDrive\Máy tính\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fPutTable.resources
+C:\Users\tuanc\OneDrive\Máy tính\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fBackFood.resources
+C:\Users\tuanc\OneDrive\Máy tính\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fPay.resources
+C:\Users\tuanc\OneDrive\Máy tính\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fEmployees.resources
+C:\Users\tuanc\OneDrive\Máy tính\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fTable.resources
+C:\Users\tuanc\OneDrive\Máy tính\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fFood.resources
+C:\Users\tuanc\OneDrive\Máy tính\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fUpdate.resources
+C:\Users\tuanc\OneDrive\Máy tính\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fAddMenu.resources
+C:\Users\tuanc\OneDrive\Máy tính\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fLoading.resources
+C:\Users\tuanc\OneDrive\Máy tính\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fBlock.resources
+D:\QUANTRICSDL\RestaurantManager\RestaurantManager\RestaurantManager\bin\Debug\RestaurantManager.exe.config
+D:\QUANTRICSDL\RestaurantManager\RestaurantManager\RestaurantManager\bin\Debug\RestaurantManager.exe
+D:\QUANTRICSDL\RestaurantManager\RestaurantManager\RestaurantManager\bin\Debug\RestaurantManager.pdb
+D:\QUANTRICSDL\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.csprojAssemblyReference.cache
+D:\QUANTRICSDL\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fAddFood.resources
+D:\QUANTRICSDL\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fAddMenu.resources
+D:\QUANTRICSDL\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fBackFood.resources
+D:\QUANTRICSDL\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fBlock.resources
+D:\QUANTRICSDL\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fConnect.resources
+D:\QUANTRICSDL\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fFood.resources
+D:\QUANTRICSDL\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fLoading.resources
+D:\QUANTRICSDL\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.fLogin.resources
+D:\QUANTRICSDL\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fMain.resources
+D:\QUANTRICSDL\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fEmployees.resources
+D:\QUANTRICSDL\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fNextTable.resources
+D:\QUANTRICSDL\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fPay.resources
+D:\QUANTRICSDL\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fPaymenthistory.resources
+D:\QUANTRICSDL\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fPutTable.resources
+D:\QUANTRICSDL\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fTable.resources
+D:\QUANTRICSDL\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fUpdate.resources
+D:\QUANTRICSDL\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.Properties.Resources.resources
+D:\QUANTRICSDL\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.csproj.GenerateResource.cache
+D:\QUANTRICSDL\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.csproj.CoreCompileInputs.cache
+D:\QUANTRICSDL\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.exe
+D:\QUANTRICSDL\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.pdb
+D:\QUANTRICSDL\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.fgioithieu.resources
+D:\QUANTRICSDL\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.fphanhoi.resources
+C:\Users\phamh\OneDrive\Desktop\C# BAO CAO 10-1-2021\RestaurantManager\RestaurantManager\RestaurantManager\bin\Debug\RestaurantManager.exe.config
+C:\Users\phamh\OneDrive\Desktop\C# BAO CAO 10-1-2021\RestaurantManager\RestaurantManager\RestaurantManager\bin\Debug\RestaurantManager.exe
+C:\Users\phamh\OneDrive\Desktop\C# BAO CAO 10-1-2021\RestaurantManager\RestaurantManager\RestaurantManager\bin\Debug\RestaurantManager.pdb
+C:\Users\phamh\OneDrive\Desktop\C# BAO CAO 10-1-2021\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.csprojAssemblyReference.cache
+C:\Users\phamh\OneDrive\Desktop\C# BAO CAO 10-1-2021\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.fgioithieu.resources
+C:\Users\phamh\OneDrive\Desktop\C# BAO CAO 10-1-2021\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.fphanhoi.resources
+C:\Users\phamh\OneDrive\Desktop\C# BAO CAO 10-1-2021\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fAddFood.resources
+C:\Users\phamh\OneDrive\Desktop\C# BAO CAO 10-1-2021\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fAddMenu.resources
+C:\Users\phamh\OneDrive\Desktop\C# BAO CAO 10-1-2021\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fBackFood.resources
+C:\Users\phamh\OneDrive\Desktop\C# BAO CAO 10-1-2021\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fBlock.resources
+C:\Users\phamh\OneDrive\Desktop\C# BAO CAO 10-1-2021\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fConnect.resources
+C:\Users\phamh\OneDrive\Desktop\C# BAO CAO 10-1-2021\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fFood.resources
+C:\Users\phamh\OneDrive\Desktop\C# BAO CAO 10-1-2021\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fLoading.resources
+C:\Users\phamh\OneDrive\Desktop\C# BAO CAO 10-1-2021\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.fLogin.resources
+C:\Users\phamh\OneDrive\Desktop\C# BAO CAO 10-1-2021\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fMain.resources
+C:\Users\phamh\OneDrive\Desktop\C# BAO CAO 10-1-2021\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fEmployees.resources
+C:\Users\phamh\OneDrive\Desktop\C# BAO CAO 10-1-2021\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fNextTable.resources
+C:\Users\phamh\OneDrive\Desktop\C# BAO CAO 10-1-2021\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fPay.resources
+C:\Users\phamh\OneDrive\Desktop\C# BAO CAO 10-1-2021\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fPaymenthistory.resources
+C:\Users\phamh\OneDrive\Desktop\C# BAO CAO 10-1-2021\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fPutTable.resources
+C:\Users\phamh\OneDrive\Desktop\C# BAO CAO 10-1-2021\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fTable.resources
+C:\Users\phamh\OneDrive\Desktop\C# BAO CAO 10-1-2021\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fUpdate.resources
+C:\Users\phamh\OneDrive\Desktop\C# BAO CAO 10-1-2021\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.Properties.Resources.resources
+C:\Users\phamh\OneDrive\Desktop\C# BAO CAO 10-1-2021\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.csproj.GenerateResource.cache
+C:\Users\phamh\OneDrive\Desktop\C# BAO CAO 10-1-2021\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.csproj.CoreCompileInputs.cache
+C:\Users\phamh\OneDrive\Desktop\C# BAO CAO 10-1-2021\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.exe
+C:\Users\phamh\OneDrive\Desktop\C# BAO CAO 10-1-2021\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.pdb
+D:\1\RestaurantManager\RestaurantManager\RestaurantManager\bin\Debug\RestaurantManager.exe.config
+D:\1\RestaurantManager\RestaurantManager\RestaurantManager\bin\Debug\RestaurantManager.exe
+D:\1\RestaurantManager\RestaurantManager\RestaurantManager\bin\Debug\RestaurantManager.pdb
+D:\1\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.csprojAssemblyReference.cache
+D:\1\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.fgioithieu.resources
+D:\1\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.fphanhoi.resources
+D:\1\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fAddFood.resources
+D:\1\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fAddMenu.resources
+D:\1\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fBackFood.resources
+D:\1\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fBlock.resources
+D:\1\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fConnect.resources
+D:\1\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fFood.resources
+D:\1\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fLoading.resources
+D:\1\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.fLogin.resources
+D:\1\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fMain.resources
+D:\1\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fEmployees.resources
+D:\1\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fNextTable.resources
+D:\1\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fPay.resources
+D:\1\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fPaymenthistory.resources
+D:\1\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fPutTable.resources
+D:\1\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fTable.resources
+D:\1\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fUpdate.resources
+D:\1\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.Properties.Resources.resources
+D:\1\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.csproj.GenerateResource.cache
+D:\1\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.csproj.CoreCompileInputs.cache
+D:\1\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.exe
+D:\1\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.pdb
+D:\RestaurantManager\RestaurantManager\bin\Debug\RestaurantManager.exe.config
+D:\RestaurantManager\RestaurantManager\bin\Debug\RestaurantManager.exe
+D:\RestaurantManager\RestaurantManager\bin\Debug\RestaurantManager.pdb
+D:\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.csprojAssemblyReference.cache
+D:\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.fgioithieu.resources
+D:\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.fphanhoi.resources
+D:\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fAddFood.resources
+D:\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fAddMenu.resources
+D:\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fBackFood.resources
+D:\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fBlock.resources
+D:\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fConnect.resources
+D:\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fFood.resources
+D:\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fLoading.resources
+D:\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.fLogin.resources
+D:\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fMain.resources
+D:\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fEmployees.resources
+D:\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fNextTable.resources
+D:\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fPay.resources
+D:\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fPaymenthistory.resources
+D:\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fPutTable.resources
+D:\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fTable.resources
+D:\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fUpdate.resources
+D:\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.Properties.Resources.resources
+D:\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.csproj.GenerateResource.cache
+D:\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.csproj.CoreCompileInputs.cache
+D:\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.exe
+D:\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.pdb
+C:\Users\admin\Downloads\RestaurantManager\RestaurantManager\RestaurantManager\bin\Debug\RestaurantManager.exe.config
+C:\Users\admin\Downloads\RestaurantManager\RestaurantManager\RestaurantManager\bin\Debug\RestaurantManager.exe
+C:\Users\admin\Downloads\RestaurantManager\RestaurantManager\RestaurantManager\bin\Debug\RestaurantManager.pdb
+C:\Users\admin\Downloads\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.fgioithieu.resources
+C:\Users\admin\Downloads\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.fphanhoi.resources
+C:\Users\admin\Downloads\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fAddFood.resources
+C:\Users\admin\Downloads\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fAddMenu.resources
+C:\Users\admin\Downloads\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fBackFood.resources
+C:\Users\admin\Downloads\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fBlock.resources
+C:\Users\admin\Downloads\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fConnect.resources
+C:\Users\admin\Downloads\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fFood.resources
+C:\Users\admin\Downloads\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fLoading.resources
+C:\Users\admin\Downloads\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.fLogin.resources
+C:\Users\admin\Downloads\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fMain.resources
+C:\Users\admin\Downloads\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fEmployees.resources
+C:\Users\admin\Downloads\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fNextTable.resources
+C:\Users\admin\Downloads\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fPay.resources
+C:\Users\admin\Downloads\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fPaymenthistory.resources
+C:\Users\admin\Downloads\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fPutTable.resources
+C:\Users\admin\Downloads\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fTable.resources
+C:\Users\admin\Downloads\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fUpdate.resources
+C:\Users\admin\Downloads\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.Properties.Resources.resources
+C:\Users\admin\Downloads\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.csproj.GenerateResource.cache
+C:\Users\admin\Downloads\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.exe
+C:\Users\admin\Downloads\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.pdb
+C:\Users\Ngoc Mai\Desktop\RestaurantManager\RestaurantManager\RestaurantManager\bin\Debug\RestaurantManager.exe.config
+C:\Users\Ngoc Mai\Desktop\RestaurantManager\RestaurantManager\RestaurantManager\bin\Debug\RestaurantManager.exe
+C:\Users\Ngoc Mai\Desktop\RestaurantManager\RestaurantManager\RestaurantManager\bin\Debug\RestaurantManager.pdb
+C:\Users\Ngoc Mai\Desktop\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.fgioithieu.resources
+C:\Users\Ngoc Mai\Desktop\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.fphanhoi.resources
+C:\Users\Ngoc Mai\Desktop\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fAddFood.resources
+C:\Users\Ngoc Mai\Desktop\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fAddMenu.resources
+C:\Users\Ngoc Mai\Desktop\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fBackFood.resources
+C:\Users\Ngoc Mai\Desktop\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fBlock.resources
+C:\Users\Ngoc Mai\Desktop\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fConnect.resources
+C:\Users\Ngoc Mai\Desktop\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fFood.resources
+C:\Users\Ngoc Mai\Desktop\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fLoading.resources
+C:\Users\Ngoc Mai\Desktop\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.fLogin.resources
+C:\Users\Ngoc Mai\Desktop\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fMain.resources
+C:\Users\Ngoc Mai\Desktop\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fEmployees.resources
+C:\Users\Ngoc Mai\Desktop\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fNextTable.resources
+C:\Users\Ngoc Mai\Desktop\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fPay.resources
+C:\Users\Ngoc Mai\Desktop\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fPaymenthistory.resources
+C:\Users\Ngoc Mai\Desktop\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fPutTable.resources
+C:\Users\Ngoc Mai\Desktop\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fTable.resources
+C:\Users\Ngoc Mai\Desktop\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fUpdate.resources
+C:\Users\Ngoc Mai\Desktop\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.Properties.Resources.resources
+C:\Users\Ngoc Mai\Desktop\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.csproj.GenerateResource.cache
+C:\Users\Ngoc Mai\Desktop\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.csproj.CoreCompileInputs.cache
+C:\Users\Ngoc Mai\Desktop\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.exe
+C:\Users\Ngoc Mai\Desktop\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.pdb
+C:\Users\Ngoc Mai\Desktop\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.csprojAssemblyReference.cache
+D:\LeThiNgocMai-5951071056-TTCM\RestaurantManager\bin\Debug\RestaurantManager.exe.config
+D:\LeThiNgocMai-5951071056-TTCM\RestaurantManager\bin\Debug\RestaurantManager.exe
+D:\LeThiNgocMai-5951071056-TTCM\RestaurantManager\bin\Debug\RestaurantManager.pdb
+D:\LeThiNgocMai-5951071056-TTCM\RestaurantManager\obj\Debug\RestaurantManager.csprojAssemblyReference.cache
+D:\LeThiNgocMai-5951071056-TTCM\RestaurantManager\obj\Debug\RestaurantManager.fgioithieu.resources
+D:\LeThiNgocMai-5951071056-TTCM\RestaurantManager\obj\Debug\RestaurantManager.fphanhoi.resources
+D:\LeThiNgocMai-5951071056-TTCM\RestaurantManager\obj\Debug\RestaurantManager.GUI.fAddFood.resources
+D:\LeThiNgocMai-5951071056-TTCM\RestaurantManager\obj\Debug\RestaurantManager.GUI.fAddMenu.resources
+D:\LeThiNgocMai-5951071056-TTCM\RestaurantManager\obj\Debug\RestaurantManager.GUI.fBackFood.resources
+D:\LeThiNgocMai-5951071056-TTCM\RestaurantManager\obj\Debug\RestaurantManager.GUI.fBlock.resources
+D:\LeThiNgocMai-5951071056-TTCM\RestaurantManager\obj\Debug\RestaurantManager.GUI.fConnect.resources
+D:\LeThiNgocMai-5951071056-TTCM\RestaurantManager\obj\Debug\RestaurantManager.GUI.fFood.resources
+D:\LeThiNgocMai-5951071056-TTCM\RestaurantManager\obj\Debug\RestaurantManager.GUI.fLoading.resources
+D:\LeThiNgocMai-5951071056-TTCM\RestaurantManager\obj\Debug\RestaurantManager.fLogin.resources
+D:\LeThiNgocMai-5951071056-TTCM\RestaurantManager\obj\Debug\RestaurantManager.GUI.fMain.resources
+D:\LeThiNgocMai-5951071056-TTCM\RestaurantManager\obj\Debug\RestaurantManager.GUI.fEmployees.resources
+D:\LeThiNgocMai-5951071056-TTCM\RestaurantManager\obj\Debug\RestaurantManager.GUI.fNextTable.resources
+D:\LeThiNgocMai-5951071056-TTCM\RestaurantManager\obj\Debug\RestaurantManager.GUI.fPay.resources
+D:\LeThiNgocMai-5951071056-TTCM\RestaurantManager\obj\Debug\RestaurantManager.GUI.fPaymenthistory.resources
+D:\LeThiNgocMai-5951071056-TTCM\RestaurantManager\obj\Debug\RestaurantManager.GUI.fPutTable.resources
+D:\LeThiNgocMai-5951071056-TTCM\RestaurantManager\obj\Debug\RestaurantManager.GUI.fTable.resources
+D:\LeThiNgocMai-5951071056-TTCM\RestaurantManager\obj\Debug\RestaurantManager.GUI.fUpdate.resources
+D:\LeThiNgocMai-5951071056-TTCM\RestaurantManager\obj\Debug\RestaurantManager.Properties.Resources.resources
+D:\LeThiNgocMai-5951071056-TTCM\RestaurantManager\obj\Debug\RestaurantManager.csproj.GenerateResource.cache
+D:\LeThiNgocMai-5951071056-TTCM\RestaurantManager\obj\Debug\RestaurantManager.csproj.CoreCompileInputs.cache
+D:\LeThiNgocMai-5951071056-TTCM\RestaurantManager\obj\Debug\RestaurantManager.exe
+D:\LeThiNgocMai-5951071056-TTCM\RestaurantManager\obj\Debug\RestaurantManager.pdb
+E:\Dowloads\Compressed\LeThiNgocMai-5951071056-TTCM-main\LeThiNgocMai-5951071056-TTCM-main\RestaurantManager\obj\Debug\RestaurantManager.csproj.AssemblyReference.cache
+E:\Dowloads\Compressed\LeThiNgocMai-5951071056-TTCM-main\LeThiNgocMai-5951071056-TTCM-main\RestaurantManager\obj\Debug\RestaurantManager.fgioithieu.resources
+E:\Dowloads\Compressed\LeThiNgocMai-5951071056-TTCM-main\LeThiNgocMai-5951071056-TTCM-main\RestaurantManager\obj\Debug\RestaurantManager.fphanhoi.resources
+E:\Dowloads\Compressed\LeThiNgocMai-5951071056-TTCM-main\LeThiNgocMai-5951071056-TTCM-main\RestaurantManager\obj\Debug\RestaurantManager.GUI.fAddFood.resources
+E:\Dowloads\Compressed\LeThiNgocMai-5951071056-TTCM-main\LeThiNgocMai-5951071056-TTCM-main\RestaurantManager\obj\Debug\RestaurantManager.GUI.fAddMenu.resources
+E:\Dowloads\Compressed\LeThiNgocMai-5951071056-TTCM-main\LeThiNgocMai-5951071056-TTCM-main\RestaurantManager\obj\Debug\RestaurantManager.GUI.fBackFood.resources
+E:\Dowloads\Compressed\LeThiNgocMai-5951071056-TTCM-main\LeThiNgocMai-5951071056-TTCM-main\RestaurantManager\obj\Debug\RestaurantManager.GUI.fBlock.resources
+E:\Dowloads\Compressed\LeThiNgocMai-5951071056-TTCM-main\LeThiNgocMai-5951071056-TTCM-main\RestaurantManager\obj\Debug\RestaurantManager.GUI.fConnect.resources
+E:\Dowloads\Compressed\LeThiNgocMai-5951071056-TTCM-main\LeThiNgocMai-5951071056-TTCM-main\RestaurantManager\obj\Debug\RestaurantManager.GUI.fFood.resources
+E:\Dowloads\Compressed\LeThiNgocMai-5951071056-TTCM-main\LeThiNgocMai-5951071056-TTCM-main\RestaurantManager\obj\Debug\RestaurantManager.GUI.fLoading.resources
+E:\Dowloads\Compressed\LeThiNgocMai-5951071056-TTCM-main\LeThiNgocMai-5951071056-TTCM-main\RestaurantManager\obj\Debug\RestaurantManager.fLogin.resources
+E:\Dowloads\Compressed\LeThiNgocMai-5951071056-TTCM-main\LeThiNgocMai-5951071056-TTCM-main\RestaurantManager\obj\Debug\RestaurantManager.GUI.fMain.resources
+E:\Dowloads\Compressed\LeThiNgocMai-5951071056-TTCM-main\LeThiNgocMai-5951071056-TTCM-main\RestaurantManager\obj\Debug\RestaurantManager.GUI.fEmployees.resources
+E:\Dowloads\Compressed\LeThiNgocMai-5951071056-TTCM-main\LeThiNgocMai-5951071056-TTCM-main\RestaurantManager\obj\Debug\RestaurantManager.GUI.fNextTable.resources
+E:\Dowloads\Compressed\LeThiNgocMai-5951071056-TTCM-main\LeThiNgocMai-5951071056-TTCM-main\RestaurantManager\obj\Debug\RestaurantManager.GUI.fPay.resources
+E:\Dowloads\Compressed\LeThiNgocMai-5951071056-TTCM-main\LeThiNgocMai-5951071056-TTCM-main\RestaurantManager\obj\Debug\RestaurantManager.GUI.fPaymenthistory.resources
+E:\Dowloads\Compressed\LeThiNgocMai-5951071056-TTCM-main\LeThiNgocMai-5951071056-TTCM-main\RestaurantManager\obj\Debug\RestaurantManager.GUI.fPutTable.resources
+E:\Dowloads\Compressed\LeThiNgocMai-5951071056-TTCM-main\LeThiNgocMai-5951071056-TTCM-main\RestaurantManager\obj\Debug\RestaurantManager.GUI.fTable.resources
+E:\Dowloads\Compressed\LeThiNgocMai-5951071056-TTCM-main\LeThiNgocMai-5951071056-TTCM-main\RestaurantManager\obj\Debug\RestaurantManager.GUI.fUpdate.resources
+E:\Dowloads\Compressed\LeThiNgocMai-5951071056-TTCM-main\LeThiNgocMai-5951071056-TTCM-main\RestaurantManager\obj\Debug\RestaurantManager.Properties.Resources.resources
+E:\Dowloads\Compressed\LeThiNgocMai-5951071056-TTCM-main\LeThiNgocMai-5951071056-TTCM-main\RestaurantManager\obj\Debug\RestaurantManager.csproj.GenerateResource.cache
+E:\Dowloads\Compressed\LeThiNgocMai-5951071056-TTCM-main\LeThiNgocMai-5951071056-TTCM-main\RestaurantManager\obj\Debug\RestaurantManager.csproj.CoreCompileInputs.cache
+E:\Dowloads\Compressed\LeThiNgocMai-5951071056-TTCM-main\LeThiNgocMai-5951071056-TTCM-main\RestaurantManager\obj\Debug\RestaurantManager.exe
+E:\Dowloads\Compressed\LeThiNgocMai-5951071056-TTCM-main\LeThiNgocMai-5951071056-TTCM-main\RestaurantManager\obj\Debug\RestaurantManager.pdb
+E:\Dowloads\Compressed\LeThiNgocMai-5951071056-TTCM-main\LeThiNgocMai-5951071056-TTCM-main\RestaurantManager\bin\Debug\RestaurantManager.exe.config
+E:\Dowloads\Compressed\LeThiNgocMai-5951071056-TTCM-main\LeThiNgocMai-5951071056-TTCM-main\RestaurantManager\bin\Debug\RestaurantManager.exe
+E:\Dowloads\Compressed\LeThiNgocMai-5951071056-TTCM-main\LeThiNgocMai-5951071056-TTCM-main\RestaurantManager\bin\Debug\RestaurantManager.pdb
+E:\Dowloads\Compressed\LeThiNgocMai-5951071056-TTCM-main\LeThiNgocMai-5951071056-TTCM-main\RestaurantManager\bin\Debug\DevExpress.Data.Desktop.v21.2.dll
+E:\Dowloads\Compressed\LeThiNgocMai-5951071056-TTCM-main\LeThiNgocMai-5951071056-TTCM-main\RestaurantManager\bin\Debug\DevExpress.Data.v21.2.dll
+E:\Dowloads\Compressed\LeThiNgocMai-5951071056-TTCM-main\LeThiNgocMai-5951071056-TTCM-main\RestaurantManager\bin\Debug\DevExpress.Printing.v21.2.Core.dll
+E:\Dowloads\Compressed\LeThiNgocMai-5951071056-TTCM-main\LeThiNgocMai-5951071056-TTCM-main\RestaurantManager\bin\Debug\DevExpress.Sparkline.v21.2.Core.dll
+E:\Dowloads\Compressed\LeThiNgocMai-5951071056-TTCM-main\LeThiNgocMai-5951071056-TTCM-main\RestaurantManager\bin\Debug\DevExpress.Utils.v21.2.dll
+E:\Dowloads\Compressed\LeThiNgocMai-5951071056-TTCM-main\LeThiNgocMai-5951071056-TTCM-main\RestaurantManager\bin\Debug\DevExpress.XtraEditors.v21.2.dll
+E:\Dowloads\Compressed\LeThiNgocMai-5951071056-TTCM-main\LeThiNgocMai-5951071056-TTCM-main\RestaurantManager\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+E:\Dowloads\Compressed\LeThiNgocMai-5951071056-TTCM-main\LeThiNgocMai-5951071056-TTCM-main\RestaurantManager\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+E:\Dowloads\Compressed\LeThiNgocMai-5951071056-TTCM-main\LeThiNgocMai-5951071056-TTCM-main\RestaurantManager\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+E:\Dowloads\Compressed\LeThiNgocMai-5951071056-TTCM-main\LeThiNgocMai-5951071056-TTCM-main\RestaurantManager\bin\Debug\DevExpress.Data.v21.2.xml
+E:\Dowloads\Compressed\LeThiNgocMai-5951071056-TTCM-main\LeThiNgocMai-5951071056-TTCM-main\RestaurantManager\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+E:\Dowloads\Compressed\LeThiNgocMai-5951071056-TTCM-main\LeThiNgocMai-5951071056-TTCM-main\RestaurantManager\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+E:\Dowloads\Compressed\LeThiNgocMai-5951071056-TTCM-main\LeThiNgocMai-5951071056-TTCM-main\RestaurantManager\bin\Debug\DevExpress.Utils.v21.2.xml
+E:\Dowloads\Compressed\LeThiNgocMai-5951071056-TTCM-main\LeThiNgocMai-5951071056-TTCM-main\RestaurantManager\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+E:\Dowloads\Compressed\LeThiNgocMai-5951071056-TTCM-main\LeThiNgocMai-5951071056-TTCM-main\RestaurantManager\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+E:\Dowloads\Compressed\LeThiNgocMai-5951071056-TTCM-main\LeThiNgocMai-5951071056-TTCM-main\RestaurantManager\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+E:\Dowloads\Compressed\LeThiNgocMai-5951071056-TTCM-main\LeThiNgocMai-5951071056-TTCM-main\RestaurantManager\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+E:\Dowloads\Compressed\LeThiNgocMai-5951071056-TTCM-main\LeThiNgocMai-5951071056-TTCM-main\RestaurantManager\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+E:\Dowloads\Compressed\LeThiNgocMai-5951071056-TTCM-main\LeThiNgocMai-5951071056-TTCM-main\RestaurantManager\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+E:\Dowloads\Compressed\LeThiNgocMai-5951071056-TTCM-main\LeThiNgocMai-5951071056-TTCM-main\RestaurantManager\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+E:\Dowloads\Compressed\LeThiNgocMai-5951071056-TTCM-main\LeThiNgocMai-5951071056-TTCM-main\RestaurantManager\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+E:\Dowloads\Compressed\LeThiNgocMai-5951071056-TTCM-main\LeThiNgocMai-5951071056-TTCM-main\RestaurantManager\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+E:\Dowloads\Compressed\LeThiNgocMai-5951071056-TTCM-main\LeThiNgocMai-5951071056-TTCM-main\RestaurantManager\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+E:\Dowloads\Compressed\LeThiNgocMai-5951071056-TTCM-main\LeThiNgocMai-5951071056-TTCM-main\RestaurantManager\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+E:\Dowloads\Compressed\LeThiNgocMai-5951071056-TTCM-main\LeThiNgocMai-5951071056-TTCM-main\RestaurantManager\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+E:\Dowloads\Compressed\LeThiNgocMai-5951071056-TTCM-main\LeThiNgocMai-5951071056-TTCM-main\RestaurantManager\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+E:\Dowloads\Compressed\LeThiNgocMai-5951071056-TTCM-main\LeThiNgocMai-5951071056-TTCM-main\RestaurantManager\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+E:\Dowloads\Compressed\LeThiNgocMai-5951071056-TTCM-main\LeThiNgocMai-5951071056-TTCM-main\RestaurantManager\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+E:\Dowloads\Compressed\LeThiNgocMai-5951071056-TTCM-main\LeThiNgocMai-5951071056-TTCM-main\RestaurantManager\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+E:\Dowloads\Compressed\LeThiNgocMai-5951071056-TTCM-main\LeThiNgocMai-5951071056-TTCM-main\RestaurantManager\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+E:\Dowloads\Compressed\LeThiNgocMai-5951071056-TTCM-main\LeThiNgocMai-5951071056-TTCM-main\RestaurantManager\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+E:\Dowloads\Compressed\LeThiNgocMai-5951071056-TTCM-main\LeThiNgocMai-5951071056-TTCM-main\RestaurantManager\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+E:\Dowloads\Compressed\LeThiNgocMai-5951071056-TTCM-main\LeThiNgocMai-5951071056-TTCM-main\RestaurantManager\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+E:\Dowloads\Compressed\LeThiNgocMai-5951071056-TTCM-main\LeThiNgocMai-5951071056-TTCM-main\RestaurantManager\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+E:\Dowloads\Compressed\LeThiNgocMai-5951071056-TTCM-main\LeThiNgocMai-5951071056-TTCM-main\RestaurantManager\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+E:\Dowloads\Compressed\LeThiNgocMai-5951071056-TTCM-main\LeThiNgocMai-5951071056-TTCM-main\RestaurantManager\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+E:\Dowloads\Compressed\LeThiNgocMai-5951071056-TTCM-main\LeThiNgocMai-5951071056-TTCM-main\RestaurantManager\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+E:\Dowloads\Compressed\LeThiNgocMai-5951071056-TTCM-main\LeThiNgocMai-5951071056-TTCM-main\RestaurantManager\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+E:\Dowloads\Compressed\LeThiNgocMai-5951071056-TTCM-main\LeThiNgocMai-5951071056-TTCM-main\RestaurantManager\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+E:\Dowloads\Compressed\LeThiNgocMai-5951071056-TTCM-main\LeThiNgocMai-5951071056-TTCM-main\RestaurantManager\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+E:\Dowloads\Compressed\LeThiNgocMai-5951071056-TTCM-main\LeThiNgocMai-5951071056-TTCM-main\RestaurantManager\obj\Debug\RestaurantManager.csproj.CopyComplete
